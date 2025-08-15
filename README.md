@@ -1,1 +1,8 @@
 # aluraflix
+body (
+    color: white;
+    background:black;
+
+ header(
+  border: solid 2px white;
+)
