@@ -1,8 +1,3 @@
-# aluraflix
-body (
-    color: white;
-    background:black;
+https://probable-space-acorn-jjwjw767pjvjf5q4p-5500.app.github.dev/
 
- header(
-  border: solid 2px white;
-)
+#site
